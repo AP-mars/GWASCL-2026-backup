@@ -40,6 +40,11 @@
         "name": "WallyBoom2010",
         "link": "https://scratch.mit.edu/users/UNSEENTeam/"
     },
+        {
+        "role": "admin",
+        "name": "JellyBurber",
+        "link": "https://www.youtube.com/channel/UCw0PYZg443ZcfqvXUw3S1aQ"
+    },
     {
         "role": "admin",
         "name": "KING_MAST3R2O1O",
@@ -49,6 +54,11 @@
         "role": "admin",
         "name": "Jacoblegged",
         "link": "https://scratch.mit.edu/users/UNSEENTeam/"
+    },
+            {
+        "role": "admin",
+        "name": "HurryingJackM",
+        "link": ""
     },
     {
         "role": "admin",
@@ -64,7 +74,16 @@
         "role": "helper",
         "name": "PlayerEpic86",
         "link": "https://scratch.mit.edu/users/STASISteam"
-  
+    },
+        {
+        "role": "helper",
+        "name": "pluh",
+        "link": ""
+    },
+            {
+        "role": "helper",
+        "name": "Mr. Bazooka",
+        "link": ""
     },
     {
         "role": "dev",
