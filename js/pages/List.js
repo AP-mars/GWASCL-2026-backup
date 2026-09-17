@@ -118,11 +118,11 @@ export default {
 					        <button class="btn" type="button" @click="applyFilters()">Filter!</button>
                         </div>
 					</form>
-                    <a class="nav__icon" href="https://discord.gg/Vk73r9HgXF">
+                    <a class="nav__icon" href="https://discord.gg/qAaaDRQkJm">
                         <img src="../assets/discord.svg" alt="Discord Logo" />
                     </a>
                     <p>
-                    	<a href="https://discord.gg/Vk73r9HgXF">
+                    	<a href="https://discord.gg/qAaaDRQkJm">
                         	join our discord please
                         </a>
                     </p>
@@ -175,25 +175,25 @@ export default {
                         - Achieved the record without using hacks, if you are blacklisted we may request to see your settings or mods
                     </p>
                     <p>
-                        - Completions done after 5/30/26 must have a previous death in the recording (or at least watching the player load in)
+                        - Beat levels with the required methods/FPS
                     </p>
                     <p>
-                        - Use of bots or autoclickers will result in being placed on the player blacklist
+                        - Use of bots or autoclickers will result in being placed on the player blacklist unless they can prove to us that they are trustworthy
                     </p>
                     <p>
-                        - Levels must be made on Real GD, Scratch GD, Polydash, or 3Dash (SGD levels must be played on min 30FPS~)
+                        - If a mod asks you for raw footage or to proof stream, be prepared to comply
                     </p>
                     <h3 style="font-weight: 550;">
                         Level requirement:
                     </h3>
                     <p>
-                        - nothing lmao we place anything harder than base after base
+                        - Decoration is not required, but don't repeatedly submit slop or your levels will be denied
                     </p>
                     <p>
-			- ULDMS AND LDMS WILL NOT PLACE SEPERATELY 
+			- Levels must be made on Real GD, submit SGD levels to the Definitive Demon List
                     </p>
                     <p>
-                        - meow
+                        - Boring remakes will be denied unless they are part of an inside joke
                     </p>
                 </div>
             </div>
