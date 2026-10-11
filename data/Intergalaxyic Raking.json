@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Rake/CBF",
     "records": [
+                                                        {
+    "user": "jsgoofy",
+    "link": "https://www.youtube.com/watch?v=SjRStXvg_5Y",
+    "hz": "CBF",
+    "percent": 100 
+                            }
     ]
 }
