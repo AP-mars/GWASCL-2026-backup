@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Rake/CBF",
     "records": [
+                {
+        "user": "Radiant",
+            "link": "https://youtube.com/shorts/D9DWKu_16S4",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
