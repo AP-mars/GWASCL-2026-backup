@@ -1,0 +1,18 @@
+{
+    "id": 125948059,
+    "name": "Isnt Adam Never Clea (Altjitter)",
+    "author": "JustAnUnknown",
+    "creators": [],
+    "verifier": "IsntAdam",
+    "verification": "https://www.youtube.com/watch?v=4SRIFWAtKPs",
+    "percentToQualify": 100,
+    "password": "Ludwig/Altjitter/CBF",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=M8zfyTPHazI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
