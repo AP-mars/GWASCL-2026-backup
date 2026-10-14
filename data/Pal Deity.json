@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Altjitter/Ludwig/100FPS",
     "records": [
+                       {
+            "user": "JustAnUnknown",
+            "link": "https://www.youtube.com/watch?v=M9UbbQErmNQ",
+            "hz": 100,
+            "percent": 100
+        }
     ]
 }
