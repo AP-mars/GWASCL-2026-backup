@@ -3,16 +3,11 @@
     "name": "AstroGuy Everclear",
     "author": "Squeeg",
     "creators": ["𝒩𝒪𝒞_𝐸𝒸𝓁𝒾𝓅𝓈𝑒𝒹, Squeeg"],
-    "verifier": "AstroGuy",
-    "verification": "https://www.youtube.com/watch?v=DM4CxTws8zs",
+    "verifier": "𝒩𝒪𝒞_𝐸𝒸𝓁𝒾𝓅𝓈𝑒𝒹",
+    "verification": "https://youtu.be/DM4CxTws8zs",
     "percentToQualify": 100,
-    "password": "Rake/240/No RT",
+    "password": "Jitterrake/CBF/No RT",
+    "description": "I have taken place of Astroguy for the verifier (lost media rule), ~220 CPS Jitterrake with 480hz physics, more with CBF+240hz",
     "records": [
-    {
-    "user": "𝒩𝒪𝒞_𝐸𝒸𝓁𝒾𝓅𝓈𝑒𝒹",
-    "link": "https://www.youtube.com/watch?v=DM4CxTws8zs",
-    "hz": 240,
-    "percent": 100 
-    }
     ]
 }
